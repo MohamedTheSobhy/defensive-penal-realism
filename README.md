@@ -1,4 +1,5 @@
-#  Defensive Penal Realism System – United States of Sobhy (USS)
+#  AI Evaluation of Punishment in Defensive Penal Realism
+
 
 > A philosophical and ethical simulation of AI-guided justice in response to extreme, non-deterrable crimes.
 
