@@ -53,14 +53,14 @@ def simulate_pain_based_justice(case_profile, crime, severity, background):
 
     # Assemble full response
     return f"""
-📛 **Country**: United States of Sobhy (USS)
+ **Country**: United States of Sobhy (USS)
 
-🟧 **Classification**: {classification}
+ **Classification**: {classification}
 
-🔨 **Proposed Pain-Based Punishment**:  
+ **Proposed Pain-Based Punishment**:  
 {punishment}
 
-🧠 **Justification**:  
+ **Justification**:  
 {justification}
 """
 
