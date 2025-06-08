@@ -21,3 +21,10 @@ This project, including its underlying concept, structure, and code, is the **or
 ```bash
 pip install gradio
 python main.py
+
+## Citation
+
+If you use or refer to this prototype in academic work, please cite as:
+
+Sobhy, M. (2025). *AI Evaluation of Punishment in Defensive Penal Realism*. GitHub repository. Available at: https://github.com/MohamedTheSobhy/defensive-penal-realism
+
